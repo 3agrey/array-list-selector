@@ -1,5 +1,0 @@
-c:\documents and settings\admin\мои документы\visual studio 2010\Projects\arraylist\arraylist\bin\Debug\arraylist.exe
-c:\documents and settings\admin\мои документы\visual studio 2010\Projects\arraylist\arraylist\bin\Debug\arraylist.pdb
-c:\documents and settings\admin\мои документы\visual studio 2010\Projects\arraylist\arraylist\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\admin\мои документы\visual studio 2010\Projects\arraylist\arraylist\obj\x86\Debug\arraylist.exe
-c:\documents and settings\admin\мои документы\visual studio 2010\Projects\arraylist\arraylist\obj\x86\Debug\arraylist.pdb
