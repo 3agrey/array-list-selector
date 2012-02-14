@@ -13,18 +13,17 @@ namespace ConsoleApplication5
             ArrayList counter = new ArrayList();
             int remainder = 0;
             int a = 0;
-            int i = 100;
-            for (int ctr = 0; ctr < i; ctr++)
+            int i = 99;
+            for (int ctr = 0; ctr <= i; ctr++)
             {
                 counter.Add(ctr);
             }
-            for (int ctr = 0; ctr < i; ctr++)
+            for (int ctr = i; ctr >= 0; ctr--)
             {
                 a = Convert.ToInt32(counter[ctr]);
                 Math.DivRem(a, 2, out remainder);
                 if (remainder == 1)
                 {
-                    i--;
                     counter.RemoveAt(ctr);
                 }
             }
